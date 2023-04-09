@@ -1,0 +1,21 @@
+.jumbotron {
+    text-align: center;
+}
+.table {
+    text-align: center;
+    width: 100%;
+ }
+
+.gambar img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.bg-baru{
+    background-color: #6B814E;
+}
+
+
